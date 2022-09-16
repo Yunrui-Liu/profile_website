@@ -1,0 +1,32 @@
+---
+title: "Yunrui Liu"
+image: images/yunrui_profile.jpeg
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Q7kE0YEAAAAJ&hl=en&oi=ao"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Yunrui-Liu"
+  - label: Orcid
+    url: "https://orcid.org/0000-0002-1981-4691"
+  - label: GitHub
+    url: "https://github.com/Yunrui-Liu/profile_website"
+    
+base_url: https://distillery.rbind.io/
+preview: images/distillery.png
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+Welcome! I am a PhD student of Center for Cognitive and Decision Sciences, Faculty of Psychology, University of Basel.
+
+

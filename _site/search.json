@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Yunrui Liu",
+      "description": "Welcome to the website, I hope you enjoy it and learn more about me!",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-09-16T10:55:33+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Yunrui Liu",
+      "author": [],
+      "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Yunrui Liu\n            \n            \n              \n                \n                    \n                      \n                        Google Scholar\n                      \n                    \n                  \n                                    \n                    \n                      \n                        ResearchGate\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Orcid\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            Welcome! I am a PhD student of Center for Cognitive and\n            Decision Sciences, Faculty of Psychology, University of\n            Basel.\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Yunrui Liu\n            \n            \n              \n                \n                                    \n                    \n                      Google Scholar\n                    \n                  \n                                    \n                    \n                      ResearchGate\n                    \n                  \n                                    \n                    \n                      Orcid\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                  \n              \n            \n            \n              Welcome! I am a PhD student of Center for Cognitive and\n              Decision Sciences, Faculty of Psychology, University of\n              Basel.\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-09-16T10:54:02+02:00"
+    }
+  ],
+  "collections": []
+}
